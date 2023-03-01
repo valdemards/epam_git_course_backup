@@ -1,6 +1,2 @@
 first row
 second row
-а
-а
-в
-ы
