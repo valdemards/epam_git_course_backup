@@ -2,5 +2,3 @@ first row
 second row
 row
 te
-
-NEW BRANCH
